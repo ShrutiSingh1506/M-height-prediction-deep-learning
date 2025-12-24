@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy>=1.23
+scipy>=1.9
+pandas>=1.5
+
+# Machine Learning
+scikit-learn>=1.2
+
+# Deep Learning
+tensorflow>=2.11
+
+# Visualization (for analysis & plots)
+matplotlib>=3.7
+seaborn>=0.12
+
+# Utilities
+tqdm>=4.65
+joblib>=1.2

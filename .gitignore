@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local env
+venv/
+.env/
+
+# Large artifacts / training caches
+models/**/k*/model_*.keras
+models/**/scaler_*.pkl
+models/**/calibration.pkl
+models/**/artifacts_index.pkl
+aug/
+splits/
+
+# Data files (keep README.md only)
+data/*
+!data/README.md
+
+# Figures (keep plots for README)
+!figures/
+!figures/*.png
