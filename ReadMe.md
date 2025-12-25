@@ -1,5 +1,5 @@
 # m-Height Prediction using Deep Learning  
-*(CSCE 636 – Deep Learning, Project 3)*
+*(CSCE 636 – Deep Learning)*
 
 ---
 
